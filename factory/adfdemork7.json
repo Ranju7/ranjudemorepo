@@ -1,0 +1,9 @@
+{
+	"name": "adfdemork7",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e3ff245-be24-4899-9595-ece0beb14221",
+		"tenantId": "47cd6158-94ed-4f3d-ab41-20b368ee4431"
+	}
+}
